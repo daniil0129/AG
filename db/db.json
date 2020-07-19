@@ -1,0 +1,847 @@
+{
+  "Alfa Romeo": [
+    {
+      "mode": "Alfa Romeo 156",
+      "complectation": [
+        {
+          "compName": "Н/Д",
+          "descr": "Н/Д"
+        }
+      ]
+
+    },
+    {
+      "mode": "Alfa Romeo 159",
+      "complectation": [
+        {
+          "compName": "1.9 л.",
+          "descr": "Прирост мощности: 22-24%\nПрирост крутящего момента: 19-21%"
+        },
+        {
+          "compName": "2.2 л.",
+          "descr": "Прирост мощности: 8-9%\nПрирост крутящего момента: 9-10%"
+        },
+        {
+          "compName": "2.4 л.",
+          "descr": "Прирост мощности: 13-15%\nПрирост крутящего момента: 14-16%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Alfa Romeo 147",
+      "complectation": [
+        {
+          "compName": "1.9 л.",
+          "descr": "Прирост мощности: 21% - 24%\nПрирост крутящего момента: 19% - 25%"
+        },
+        {
+          "compName": "3.2 л.",
+          "descr": "Прирост мощности: 6% - 7%\nПрирост крутящего момента: 7% - 9%"
+        }
+
+      ]
+
+    },
+    {
+      "mode": "Alfa Brera",
+      "complectation": [
+        {
+          "compName": "1.75 и 2.2 л.",
+          "descr": "Прирост мощности: 19% - 23%\nПрирост крутящего момента: 22% - 25%"
+        },
+        {
+          "compName": "3.2 л.",
+          "descr": "Прирост мощности: 18% - 22%\nПрирост крутящего момента: 21% - 24%"
+        }
+      ]
+
+    }
+  ],
+  "Audi":[
+    {
+      "mode": "Audi TT",
+      "complectation": [
+        {
+          "compName": "Audi TT 2.0 TFSI",
+          "descr": "Прирост мощности: 18-19%\nПрирост крутящего момента: 21-23%\n"
+        },
+        {
+          "compName": "Audi TT 3.2",
+          "descr": "Прирост мощности: 5-7%\nПрирост крутящего момента: 6-8%"
+        },
+        {
+          "compName": "Audi TTS 2.0 TFSI",
+          "descr": "Прирост мощности: 9-11%\nПрирост крутящего момента: 15-17%"
+        },
+        {
+          "compName": "Audi TT 2.5 TFSI RS",
+          "descr": "Прирост мощности: 13-15%\nПрирост крутящего момента: 21-23%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi Q7",
+      "complectation": [
+        {
+          "compName": "Audi Q7 3.0 TFSI",
+          "descr": "Прирост мощности: 23-27%\nПрирост крутящего момента: 15-17%"
+        },
+        {
+          "compName": "Audi Q7 3.6 FSI",
+          "descr": "Прирост мощности: 5-7%\nПрирост крутящего момента: 5-7%\n"
+        },
+        {
+          "compName": "Audi Q7 4.2 i V8 quattro",
+          "descr": "Прирост мощности: 5-7%\nПрирост крутящего момента: 8-9%\n"
+        },
+        {
+          "compName": "Audi Q7 3.0 TDI quattro",
+          "descr": "Прирост мощности: 11-12%\nПрирост крутящего момента: 11-13%"
+        },
+        {
+          "compName": "Audi Q7 3.0 TDI",
+          "descr": "Прирост мощности: 13-15%\nПрирост крутящего момента: 15-17%"
+        },
+        {
+          "compName": "Audi Q7 4.2 TDI",
+          "descr": "Прирост мощности: 11-12%\nПрирост крутящего момента: 12-13%"
+        },
+        {
+          "compName": "Audi Q7 6.0 V12",
+          "descr": "Прирост мощности: 9-11%\nПрирост крутящего момента: 9-11%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi Q5",
+      "complectation": [
+        {
+          "compName": "Audi Q5 2.0 TFSI",
+          "descr": "Прирост мощности: 15-17%\nПрирост крутящего момента: 16-18%"
+        },
+        {
+          "compName": "Audi Q5 3.2 FSI",
+          "descr": "Прирост мощности: 6-8%\nПрирост крутящего момента: 7-8%"
+        },
+        {
+          "compName": "Audi Q5 3.0 TFSI",
+          "descr": "Прирост мощности: 25-29%\nПрирост крутящего момента: 16-18%"
+        },
+        {
+          "compName": "Audi Q5 2.0 TDI",
+          "descr": "Прирост мощности: 15-17%\nПрирост крутящего момента: 14-18%"
+        },
+        {
+          "compName": "Audi Q5 3.0 TDI",
+          "descr": "Прирост мощности: 13-15%\nПрирост крутящего момента: 15-17%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi Q3",
+      "complectation": [
+        {
+          "compName": "Audi Q3 2.0 TFSI",
+          "descr": "Прирост мощности: 23-27%\nПрирост крутящего момента: 22-25%"
+        },
+        {
+          "compName": "Audi Q3 2.0",
+          "descr": "Прирост мощности: 16-18%\nПрирост крутящего момента: 15-16%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A8",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": "Прирост мощности: 20-25%\nПрирост крутящего момента: 15-18%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A7",
+      "complectation": [
+        {
+          "compName": "Audi A7 3.0 TFSI",
+          "descr": "Прирост мощности: 21-26%\nПрирост крутящего момента: 14-17%"
+        },
+        {
+          "compName": "Audi A7 3.0 TDI",
+          "descr": "Прирост мощности: 14-16%\nПрирост крутящего момента: 17-19%"
+        },
+        {
+          "compName": "Audi A7 3.0 TDI",
+          "descr": "Прирост мощности: 11-13%\nПрирост крутящего момента: 15-17%\n"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A6",
+      "complectation": [
+        {
+          "compName": "Audi A6 2.0 TFSI",
+          "descr": "Прирост мощности: 20-23%\nПрирост крутящего момента: 18-19%\n"
+        },
+        {
+          "compName": "Audi A6 3.0 TFSI",
+          "descr": "Прирост мощности: 25-28%\nПрирост крутящего момента: 14-18%"
+        },
+        {
+          "compName": "Audi A6 3.0TDI",
+          "descr": "Прирост мощности: 14-16%\nПрирост крутящего момента: 17-19%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A5",
+      "complectation": [
+        {
+          "compName": "Audi A5 1.8 TFSI",
+          "descr": "Прирост мощности: 21-23%\nПрирост крутящего момента: 23-26%"
+        },
+        {
+          "compName": "Audi A5 2.0 TFSI",
+          "descr": "Прирост мощности: 21-23%\nПрирост крутящего момента: 17-19%"
+        },
+        {
+          "compName": "Audi A5 3.2 FSI",
+          "descr": "Прирост мощности: 8-9%\nПрирост крутящего момента: 7-9%"
+        },
+        {
+          "compName": "Audi A5 2.0 TDI",
+          "descr": "Прирост мощности: 14-16%\nПрирост крутящего момента: 11-13%"
+        },
+        {
+          "compName": "Audi A5 2.7 TDI",
+          "descr": "Прирост мощности: 15-17%\nПрирост крутящего момента: 11-13%"
+        },
+        {
+          "compName": "Audi A5 3.0 TDI V6",
+          "descr": "Прирост мощности: 13-15%\nПрирост крутящего момента: 13-15%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A4",
+      "complectation": [
+        {
+          "compName": "Audi A4 1.8 TFSI",
+          "descr": "Прирост мощности: 24-27%\nПрирост крутящего момента: 15-21%"
+        },
+        {
+          "compName": "Audi A4 2.0 TFSI",
+          "descr": "Прирост мощности: 21-24%\nПрирост крутящего момента: 17-19%"
+        },
+        {
+          "compName": "Audi A4 3.0 TFSI",
+          "descr": "Прирост мощности: 22-25%\nПрирост крутящего момента: 14-15%"
+        },
+        {
+          "compName": "Audi A4 2.0 TDI",
+          "descr": "Прирост мощности: 19-23%\nПрирост крутящего момента: 17-19%"
+        },
+        {
+          "compName": "Audi A4 2.7 TDI",
+          "descr": "Прирост мощности: 16-17%\nПрирост крутящего момента: 11-12%"
+        },
+        {
+          "compName": "Audi A4 3.0 TDI",
+          "descr": "Прирост мощности: 13-15%\nПрирост крутящего момента: 14-15%"
+        },
+        {
+          "compName": "Audi A4 Allroad 2.0 TFSI",
+          "descr": "Прирост мощности: 15-17%\nПрирост крутящего момента: 14-16%"
+        },
+        {
+          "compName": "Audi A4 Allroad 3.0 TDI",
+          "descr": "Прирост мощности: 14-15%\nПрирост крутящего момента: 13-15%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A3",
+      "complectation": [
+        {
+          "compName": "Audi A3 1.2 TFSI",
+          "descr": "Прирост мощности: 15-18%\nПрирост крутящего момента: 13-15%"
+        },
+        {
+          "compName": "Audi A3 1.4 TFSI",
+          "descr": "Прирост мощности: 16-18%\nПрирост крутящего момента: 18-20%"
+        },
+        {
+          "compName": "Audi A3 1.8 TFSI",
+          "descr": "Прирост мощности: 20-22%\nПрирост крутящего момента: 24-27%"
+        },
+        {
+          "compName": "Audi A3 2.0 TDI",
+          "descr": "Прирост мощности: 22-25%\nПрирост крутящего момента: 18-20%"
+        }
+      ]
+
+    },
+    {
+      "mode": "Audi A2",
+      "complectation": [
+        {
+          "compName": "Н/Д",
+          "descr": "Прирост мощности: 19-22%\nПрирост крутящего момента: 17-21%"
+        }
+      ]
+
+    },
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Bentley": [
+    {
+      "mode": "Audi A1",
+      "complectation": [
+        {
+          "compName": "Audi A1 1.2 TFSI",
+          "descr": "Прирост мощности: 20-22%\nПрирост крутящего момента: 17-19%"
+        },
+        {
+          "compName": "Audi A1 1.4 TSi",
+          "descr": "Прирост мощности: 20-23%\nПрирост крутящего момента: 16-18%"
+        }
+      ]
+
+    }
+  ],
+  "BMW":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Brilliance": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "BYD":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Cadillac": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Chery":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Chevrolet": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Citroen":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Daewoo": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Datsun":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Dodge": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Fiat":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Ford": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Geely":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Great": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Haval":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Honda": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Hyundai":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Infiniti": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Jeep":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "KIA": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Land":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Lexus": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Lifan":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Mazda": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Mercedes":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Mitsubishi": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Nissan":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Opel": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Peugeot":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Porshe": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Renault":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Saab": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Skoda":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "SsangYong": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Subaru":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Suzuki": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Toyota":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Volkswagen": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "Volvo":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "ВАЗ": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "ГАЗ":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "ЗАЗ": [
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ],
+  "УАЗ":[
+    {
+      "mode": "",
+      "complectation": [
+        {
+          "compName": "",
+          "descr": ""
+        }
+      ]
+
+    }
+  ]
+}
